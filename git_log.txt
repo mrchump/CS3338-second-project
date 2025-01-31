@@ -1,0 +1,58 @@
+commit 281420ebc9d230b2bba7a692d31bbec01703bab8
+Merge: d994860 de56245
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 15:18:18 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit de562452cccb83ba4298163e2468bd4e5acca71e
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 15:15:31 2025 -0800
+
+    Committing index.html
+
+commit d994860852a98df2440afd2f3b77f4b2fea08e92
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 13:38:29 2025 -0800
+
+    Committing index.html
+
+commit 19e9ed21fe9e5c5e154d63cbb38c3f149ced867a
+Merge: 547dc00 4ff2ee9
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 13:34:27 2025 -0800
+
+    Merge branch 'main' of https://github.com/mrchump/CS3338-second-project
+
+commit 547dc005318f9edc90cfebe3d64fcb91f2714e5c
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 13:25:53 2025 -0800
+
+    Creating and committing README.md
+
+commit 77e38f76b48645365b94867b594535c27f3ab7d9
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 13:16:28 2025 -0800
+
+    Creating and commiting a README.md
+
+commit 4ff2ee935e9121ad58d6f334e3e7ae82eaaf9780
+Merge: 1d2bfc0 9e4ec1e
+Author: Donald Lopez <62831535+mrchump@users.noreply.github.com>
+Date:   Fri Jan 31 13:12:17 2025 -0800
+
+    Merge pull request #1 from mrchump/info-fill
+    
+    Commiting index.html
+
+commit 9e4ec1eab9fd1b19dd31be050ee755a2967f82b9
+Author: mrchump <donaldlopez920@gmail.com>
+Date:   Fri Jan 31 13:06:08 2025 -0800
+
+    Commiting index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
